@@ -37,7 +37,7 @@ Self-identifying mental health status empowers individuals to understand their e
 
 + Emotion analysis in text or voice can help tailor responses based on the user's emotional state.
 
-+Integrating mental health support within educational and professional platforms to create a mentally healthy environment.
++ Integrating mental health support within educational and professional platforms to create a mentally healthy environment.
 
 # About the project
 
